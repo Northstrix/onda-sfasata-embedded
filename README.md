@@ -1,4 +1,4 @@
-# onda-sfasata-embedded
+# Onda Sfasata Embedded
 An embedded version of an authentic Italian learning app.
 
 SourceForge page: https://sourceforge.net/p/onda-sfasata-embedded/
